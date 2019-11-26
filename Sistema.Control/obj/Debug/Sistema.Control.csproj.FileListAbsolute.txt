@@ -1,0 +1,47 @@
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Control.pdb
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.dll
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\obj\Debug\Sistema.Control.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\obj\Debug\Sistema.Control.dll
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\obj\Debug\Sistema.Control.pdb
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\obj\Debug\Sistema.Control.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\obj\Debug\Sistema.Control.dll
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\obj\Debug\Sistema.Control.pdb
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll.config
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Control.pdb
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.dll
+C:\Users\Aluno\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Usuario\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll.config
+C:\Users\Usuario\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll
+C:\Users\Usuario\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Control.pdb
+C:\Users\Usuario\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.dll
+C:\Users\Usuario\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Usuario\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\obj\Debug\Sistema.Control.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\obj\Debug\Sistema.Control.dll
+C:\Users\Usuario\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\obj\Debug\Sistema.Control.pdb
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll.config
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Control.pdb
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.dll
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.pdb
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\obj\Debug\Sistema.Control.csprojResolveAssemblyReference.cache
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\obj\Debug\Sistema.Control.dll
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA 2\Sistema\Sistema.Control\obj\Debug\Sistema.Control.pdb
+C:\Users\mathe\Documents\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll.config
+C:\Users\mathe\Documents\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll
+C:\Users\mathe\Documents\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Control.pdb
+C:\Users\mathe\Documents\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.dll
+C:\Users\mathe\Documents\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.pdb
+C:\Users\mathe\Documents\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\obj\Debug\Sistema.Control.csprojResolveAssemblyReference.cache
+C:\Users\mathe\Documents\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\obj\Debug\Sistema.Control.dll
+C:\Users\mathe\Documents\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\obj\Debug\Sistema.Control.pdb
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll.config
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Control.dll
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Control.pdb
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.dll
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\bin\Debug\Sistema.Entidades.pdb
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\obj\Debug\Sistema.Control.csprojResolveAssemblyReference.cache
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\obj\Debug\Sistema.Control.dll
+C:\Users\mathe\Desktop\PROJETO AUTO-ESCOLA\Sistema\Sistema.Control\obj\Debug\Sistema.Control.pdb

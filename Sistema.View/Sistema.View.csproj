@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{76063585-2F45-44EC-97AF-F55D12FBF0C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sistema.View</RootNamespace>
+    <AssemblyName>Sistema.View</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCadastroSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastroSistema.Designer.cs">
+      <DependentUpon>frmCadastroSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAluno.Designer.cs">
+      <DependentUpon>frmAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAtendente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAtendente.Designer.cs">
+      <DependentUpon>frmAtendente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControleDeAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControleDeAluno.Designer.cs">
+      <DependentUpon>frmControleDeAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInstrutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInstrutor.Designer.cs">
+      <DependentUpon>frmInstrutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sobre.Designer.cs">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVeiculo.Designer.cs">
+      <DependentUpon>frmVeiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCadastroSistema.resx">
+      <DependentUpon>frmCadastroSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAluno.resx">
+      <DependentUpon>frmAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAtendente.resx">
+      <DependentUpon>frmAtendente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControleDeAluno.resx">
+      <DependentUpon>frmControleDeAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInstrutor.resx">
+      <DependentUpon>frmInstrutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sobre.resx">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVeiculo.resx">
+      <DependentUpon>frmVeiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EncryptLogin\EncryptLogin.csproj">
+      <Project>{af6a06dd-5862-40aa-953c-d4a4bf30fd41}</Project>
+      <Name>EncryptLogin</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sistema.Entidades\Sistema.Entidades.csproj">
+      <Project>{5075c6fa-608e-4b1b-91c8-a49ba8e790aa}</Project>
+      <Name>Sistema.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sistema.Model\Sistema.Model.csproj">
+      <Project>{d3397f8a-81fa-43ae-b9f9-40a325991f8a}</Project>
+      <Name>Sistema.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aluno.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atendente.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ControleDeAluno.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Error.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excluir.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instrutor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Novo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sair.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salvar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sobre.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Veículo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Voltar.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
